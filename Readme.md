@@ -29,8 +29,9 @@ input the performance of stock n=7 for 1 week and  30 for a month 365 for a year
 it will give output for ur input :smiley:
 
 > visualization 
->
 
 ![Hist Graph](https://github.com/ritheshrai/stock_analysis_python/blob/master/screenshots/hist%20graph.png)
 
-![mutiple Graphs](https://github.com/ritheshrai/stock_analysis_python/blob/master/screenshots/hist%20graph.png)
+>clear reference
+
+![multiple Graphs](https://github.com/ritheshrai/stock_analysis_python/blob/master/screenshots/three%20graphs.png)
