@@ -31,6 +31,6 @@ it will give output for ur input :smiley:
 > visualization 
 >
 
-![GitHub Logo](/images/logo.png)
+![Hist Graph](https://github.com/ritheshrai/stock_analysis_python/blob/master/screenshots/hist%20graph.png)
 
-![GitHub Logo](/images/logo.png)
+![mutiple Graphs](https://github.com/ritheshrai/stock_analysis_python/blob/master/screenshots/hist%20graph.png)
