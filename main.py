@@ -29,7 +29,7 @@ def percentchange(n):
 
 
 # n = 7 for 1 week and n= 30 for a month n=365 for a year
-n = int(input())
+n = int(input("avrage price and profit loss of number of days ,peaseenter the day ( 7 for 1 week and  30 for a month 365 for a year)"))
 avgprice(n)
 percentchange(n)
 # ceating a new column
